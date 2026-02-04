@@ -1,0 +1,6 @@
+mnote.db
+config.json
+.mnote-sync.lock
+*.db
+*.db-shm
+*.db-wal
